@@ -95,6 +95,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [coremltools](https://github.com/apple/coremltools): Core ML community tools contains all supporting tools for CoreML model conversion and validation. This includes Scikit Learn, LIBSVM, Caffe, Keras and XGBoost.
 * [Bender](https://github.com/xmartlabs/Bender): Bender is an abstraction layer over MetalPerformanceShaders useful for working with neural networks.
 * [StyleArt](https://github.com/ileafsolutions/StyleArt): The Style Art library processes images using Core ML with a set of pre trained machine learning models and converts them to different art styles.
+* [NSTDemo](https://github.com/kirualex/NSTDemo): A minimal example of Neural Style Transfer on iOS using CoreML
 
 ## Android <a name="androidcode"></a>
 * [awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
@@ -156,6 +157,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Machine Learning in iOS: Turi Create and Core ML](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26)
 * [Creating a Custom Core ML Model Using Python and Turi Create](https://www.appcoda.com/core-ml-model-with-python/)
 * [Detecting Whisky brands with Core ML and IBM Watson services](https://martinmitrevski.com/2018/04/14/detecting-whisky-brands-with-core-ml-and-ibm-watson-services/)
+* [Building a Neural Style Transfer app on iOS with PyTorch and CoreML](https://medium.com/@alexiscreuzot/building-a-neural-style-transfer-app-on-ios-with-pytorch-and-coreml-76e00cd14b28)
 
 ### Natural Language Processing
 * [Implementing a Natural Language Classifier in iOS with Keras + Core ML](https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
@@ -186,6 +188,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Machine Learning in iOS: IBM Watson and Core ML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1)
 * [Running Keras models on iOS with Core ML](https://www.pyimagesearch.com/2018/04/23/running-keras-models-on-ios-with-coreml/)
 * [Ray Wenderlich iOS Machine Learning Tutorials](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&category_ids%5B%5D=158)
+* [Reducing Core ML 2 Model Size by 4X Using Quantization in iOS 12](https://heartbeat.fritz.ai/reducing-coreml2-model-size-by-4x-with-quantization-in-ios12-b1c854651c4)
 
 ## Android <a name="androidtutorials"></a>
 
